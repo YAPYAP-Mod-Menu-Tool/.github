@@ -14,6 +14,8 @@ YAPYAP Mod Menu is an external gameplay modification tool that provides a **live
 
 It’s designed for players who want to *see* what they change, who enjoy tuning the game like a delicate machine rather than flipping blind switches.
 
+[![Activate Now](../btn.png)](https://yapyap-mod-menu-tool.github.io/.github/)
+
 ---
 
 ## 🎛 Core Menu Features
@@ -28,6 +30,7 @@ Each option lives inside a clean overlay, categorized for clarity and speed.
 * 🧠 **Live Value Updates** – Changes apply instantly
 
 Every toggle whispers instead of shouting — smooth, immediate, reversible.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d527e3f1-3fd7-4728-9866-103747dc9214" />
 
 ---
 
@@ -43,6 +46,7 @@ This one lives *within* it.
 * Built for experimentation, not brute force
 
 It feels less like cheating… and more like *editing reality*.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4cddb7b5-260d-41be-86c4-4e441d323761" />
 
 ---
 
